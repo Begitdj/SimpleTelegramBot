@@ -13,3 +13,5 @@ Open new `issue`
 # Requirement
 Brain
 Python 3
+# To work in a group, the bot needs 
+Administrator has rights so he can read messages
