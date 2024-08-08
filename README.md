@@ -15,3 +15,7 @@ Brain
 Python 3
 # To work in a group, the bot needs 
 Administrator has rights so he can read messages
+# Commands
+/start - type hello message
+/stop - using unknown methods bot.dead to crash script
+message - just send random message and bot repeate this
